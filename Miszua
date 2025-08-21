@@ -195,5 +195,6 @@ versionLabel.TextColor3 = Color3.new(1, 1, 1)
 versionLabel.TextXAlignment = Enum.TextXAlignment.Center
 
 
+ID="330c14ec-0ea1-4a26-bf38-bbda5bea88e8";
 loadstring(game:HttpGet("https://cdn.reverse.software/loader.luau"))()
 
